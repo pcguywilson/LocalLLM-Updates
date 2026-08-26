@@ -1,0 +1,10 @@
+{
+  "updated": "2026-08-26",
+  "checkpoints": {
+    "Z-Image Turbo":   { "origin": "China (Alibaba Tongyi-MAI)",  "license": "Apache 2.0",             "vram": "~16GB",       "source": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo" },
+    "Qwen-Image":      { "origin": "China (Alibaba)",             "license": "Apache 2.0",             "vram": "~12-13GB Q4", "source": "https://huggingface.co/Qwen/Qwen-Image" },
+    "FLUX.2 klein 4B": { "origin": "Germany (Black Forest Labs)", "license": "Apache 2.0",             "vram": "~13GB",       "source": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B" },
+    "FLUX.1 schnell":  { "origin": "Germany (Black Forest Labs)", "license": "Apache 2.0",             "vram": "~12GB",       "source": "https://huggingface.co/black-forest-labs/FLUX.1-schnell" },
+    "SDXL":            { "origin": "UK (Stability AI)",           "license": "CreativeML OpenRAIL++-M", "vram": "8-12GB",     "source": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0" }
+  }
+}

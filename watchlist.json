@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-07",
   "checkpoints": {
     "Z-Image Turbo":   { "origin": "China (Alibaba Tongyi-MAI)",  "license": "Apache 2.0",             "vram": "~16GB",       "source": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo" },
     "Qwen-Image":      { "origin": "China (Alibaba)",             "license": "Apache 2.0",             "vram": "~12-13GB Q4", "source": "https://huggingface.co/Qwen/Qwen-Image" },
